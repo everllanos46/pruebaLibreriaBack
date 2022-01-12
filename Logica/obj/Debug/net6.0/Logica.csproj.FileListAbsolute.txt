@@ -1,0 +1,17 @@
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\ref\Logica.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Datos.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Entidad.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Datos.pdb
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\bin\Debug\net6.0\Entidad.pdb
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Logica\obj\Debug\net6.0\Logica.pdb

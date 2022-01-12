@@ -1,0 +1,12 @@
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\bin\Debug\net6.0\Entidad.deps.json
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\bin\Debug\net6.0\Entidad.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\bin\Debug\net6.0\ref\Entidad.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\bin\Debug\net6.0\Entidad.pdb
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.AssemblyInfo.cs
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\ref\Entidad.dll
+C:\Users\everl\Desktop\prueba+\libreriaback\Entidad\obj\Debug\net6.0\Entidad.pdb
